@@ -1,0 +1,14 @@
+node_modules/
+.npm-cache/
+.venv/
+
+# Build outputs
+dist/
+dist-app/
+build/
+
+# Local app data / secrets
+.env
+*.db
+backups/
+NEW_LOGIN_PASSWORD.txt

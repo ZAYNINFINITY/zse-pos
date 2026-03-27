@@ -1,0 +1,2 @@
+This file exists due to filesystem restrictions that prevented deletion/rename.
+Safe to ignore.
